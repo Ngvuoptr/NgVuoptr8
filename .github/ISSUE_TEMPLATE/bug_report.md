@@ -2,8 +2,8 @@
 name: Bug report
 about: Tìm và báo lỗi để giúp cải thiện dự án
 title: "[BUG] "
-labels: bug
-assignees: ''
+labels: bug, help wanted
+assignees: Ngvuoptr
 
 ---
 
