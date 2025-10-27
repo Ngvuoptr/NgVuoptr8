@@ -1,4 +1,4 @@
-# Xin chào — Mình là Lê Kung Chin 👋
+# Xin chào — Mình là LY CONG KHANH 👋
 
 > Security initialization · Security Setup · User Security  
 > Người dùng đang học để trở thành nhà phát triển — xây dựng một tổ chức nhỏ để cộng tác, học hỏi và mở rộng quy mô.
@@ -15,12 +15,10 @@
 
 ---
 
-## 🛠️ Kỹ năng (hiện tại)
+## 🛠️ Mục Tiêu Kỹ Năng (quy trình bảo mật đầu cuối)
 - Security initialization (Khởi tạo bảo mật)  
 - Security Setup (Thiết lập bảo mật)  
 - User Security (Bảo mật người dùng)  
-
-(Thêm kỹ năng khác khi bạn muốn cập nhật — ví dụ: Git, JavaScript, Python…)
 
 ---
 
@@ -42,22 +40,3 @@
 - GitHub: https://github.com/Ngvuoptr
 
 ---
-
-## 📈 Thẻ thống kê GitHub (đã dùng theme bạn chọn)
-Lưu ý: bạn đã chọn theme = "NgVuoptr". Mình đã chèn theme này vào URL thẻ — nếu theme này không thuộc các theme được hỗ trợ sẵn của dịch vụ, hình ảnh có thể hiển thị với mặc định của dịch vụ. Nếu muốn đổi sang một theme hỗ trợ, gợi ý: dark, light, radical, gruvbox_dark, tokyonight, dracula, merko, synthwave.
-
-![Ngvuoptr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngvuoptr&show_icons=true&theme=NgVuoptr)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngvuoptr&layout=compact&theme=NgVuoptr)
-
----
-
-## 🧭 Muốn cá nhân hoá hơn?
-Bạn có thể gửi cho mình:
-1. Thêm tối đa 6 kỹ năng cụ thể (ví dụ: Git, JavaScript, Python, HTML/CSS, Linux)  
-2. Nếu có dự án muốn nêu: tên, mô tả 1 dòng, link (nếu có)  
-3. Pronouns (tuỳ chọn)  
-4. Website / LinkedIn / Twitter (tuỳ chọn)  
-5. Bạn có đang mở tìm việc không? (có/không)  
-6. Muốn mình commit README này vào kho không? (có/không)
-
-Cảm ơn bạn — mình đã chuẩn bị README theo thông tin bạn cung cấp và chèn theme "NgVuoptr" vào thẻ thống kê. Nếu bạn đồng ý, mình sẽ giúp commit nội dung này vào repository của bạn; nếu muốn đổi theme sang một trong các theme được hỗ trợ, nói tên theme bạn muốn (ví dụ: dark).
